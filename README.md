@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arijitbasu321
-- 👀 I’m interested in high performace computing, job schedulers, operating systems and etc.
-- 🌱 I’m currently learning operating systems
-- 💞️ I’m looking to collaborate on open source projects related to HPC
+- 👀 I’m interested in distributed systems like HPC job schedulers, databases and etc.
+- 🌱 I’m currently learning Go, Kubernetes and other stuff.
+- 💞️ I’m looking to collaborate on open source projects related to distributed systems.
 - 📫 How to reach me arijitbasu321@gmail.com
 
 <!---
